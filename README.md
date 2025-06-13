@@ -7,7 +7,7 @@ I enjoy solving problems and approaching them from multiple perspectives to buil
 
 📫 You can reach me at: jmendezbravo14@gmail.com  
 🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/jhonier-mendez-56b895300/)  
-🌐 Personal Website: [https://https://portafolio-oarv.onrender.com](https://https://portafolio-oarv.onrender.com/)
+🌐 Personal Website: [https://portafolio-oarv.onrender.com](https://portafolio-oarv.onrender.com/)
 
 ---
 
