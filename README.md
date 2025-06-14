@@ -5,7 +5,7 @@ My main tech stack includes Django and Django REST Framework for backend, and Re
 I work with tools like Git and Docker, and have experience with agile methodologies such as Scrum and Kanban.  
 I enjoy solving problems and approaching them from multiple perspectives to build well-rounded solutions.
 
-📫 You can reach me at: jmendezbravo14@gmail.com  
+📫 You can reach me at: jhonierm14tec@gmail.com  
 🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/jhonier-mendez-56b895300/)  
 🌐 Personal Website: [https://portafolio-oarv.onrender.com](https://portafolio-oarv.onrender.com/)
 
